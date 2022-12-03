@@ -2,7 +2,7 @@
 ---
 
 **Read more here: [simpletoimplement](https://github.com/simpletoimplement)**  
-[![Join the chat at https://gitter.im/spaghettisolutions/community](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spaghettisolutions/community?utm_source=badge&utm_medium=badge&utm_content=badge)
+![Gitter](https://img.shields.io/gitter/room/spaghettisolutions/community?color=960018&label=write%20me&style=flat-square)
 ---
 
 Tests coming soon...
